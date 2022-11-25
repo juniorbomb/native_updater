@@ -6,7 +6,7 @@ version: 0.1.1
 homepage: https://github.com/ofload/native_updater
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -16,7 +16,7 @@ dependencies:
   # url_launcher will help us to trigger app store / play store url from our app.
   url_launcher: ^6.0.10
   # Enables In App Updates on Android using the official Android APIs.
-  in_app_update: ^2.0.0
+  in_app_update: ^3.0.0
 
 dev_dependencies:
   flutter_test:
